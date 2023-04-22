@@ -1,6 +1,5 @@
 # Bootcamp-TQI-Docker-Java
 Projetos Documentos e Materiais de Apoio
-Materiais de Apoio
  
 Slides
 A apresentação completa utilizada neste módulo está disponível:
